@@ -1,21 +1,4 @@
-﻿# CS336.J21-Music-Search-Engine
-  Build a simple search engine based on TF-IDF
 
-### Introduction
-
-  The data is crawled from the top-100-song chart in nhaccuatui.com
-
-  The code editor used for this project is the Visual studio Code
-
-  The crawl methods is presented in crawl.py
-
-  The string normalization method is presented in textprocessing.py
-
-  The construction methods, indexing data, are presented in indexing.py
-
-  The methods of building GUI, querying, ranking results, are presented in main.py 
-
----------------------------------------------------------------------------------------------------------
 
 ### You will need to install some package:
 
